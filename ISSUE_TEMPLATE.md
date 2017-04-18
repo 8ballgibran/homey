@@ -18,3 +18,7 @@ x.x.x
 **Any other remarks**
 
 ...
+
+**Please attach a Homey System log (Settings -> System -> Send Log)**
+
+...
