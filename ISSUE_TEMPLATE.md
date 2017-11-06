@@ -8,7 +8,8 @@ If you require more general support contact our support team
 at: support@athom.com
 
 Please fill out as much of the fields below as you're able.
-The log code can be generated at Settings -> System -> Send Log
+The Homey log code can be generated at Settings -> System -> Send Log.
+The Homey App log code can be generated at Settings -> Apps (hold ALT to show the 'Send Log' link).
 
 If possible, please provide examples that demonstrates the problem,
 keeping it as simple and clear as you are able to.
@@ -22,6 +23,11 @@ keeping it as simple and clear as you are able to.
 * **Homey Log Code**:
 * **Smartphone Platform**:
 * **Smartphone App Version**:
+
+**If related to a Homey App:**
+* **Homey App Version**:
+* **Homey App Log Code**:
+* **Affected Devices (preferably product codes)**:
 
 
 **What did you try to achieve?**
