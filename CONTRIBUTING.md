@@ -18,7 +18,7 @@ We also have a [forum](https://forum.athom.com) for general discussions.
  
 Capable programmers should always attempt to investigate and fix problems themselves before asking for others to help. Submit a pull request instead of an issue!
 
-Regular support is provided through our [support staff](support@athom.com).
+Regular support is provided through our [support staff](mailto:support@athom.com).
 
 ## A great bug report contains
 
