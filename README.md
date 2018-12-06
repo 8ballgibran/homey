@@ -1,7 +1,8 @@
-# Homey
+This issue tracker is now closed as of Homey v2.0.
 
-[View Issues](https://github.com/athombv/homey/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+-label%3Aenhancement+)
+Customers should find help at https://support.athom.com.
 
-[View Enhancement Requests](https://github.com/athombv/homey/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3Aenhancement+)
+Developers should report their issues at:
 
-[Request support for a Device](https://go.athom.com/request-device-support)
+* Apps SDK: https://github.com/athombv/homey-apps-sdk-issues
+* Web API: https://github.com/athombv/homey-web-api-issues
