@@ -1,4 +1,4 @@
-This issue tracker is now closed as of Homey v2.0.
+**This issue tracker is now closed as of Homey v2.0.**
 
 Customers should find help at https://support.athom.com.
 
